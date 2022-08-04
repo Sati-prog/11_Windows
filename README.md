@@ -1,4 +1,4 @@
-# Window
+# Windows
 
 ![family](/src/assets/img/main/bg.png)
 
